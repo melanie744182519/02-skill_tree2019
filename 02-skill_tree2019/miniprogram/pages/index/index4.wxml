@@ -1,0 +1,7 @@
+<!--miniprogram/pages/index/index4.wxml-->
+<!--<text>miniprogram/pages/index/index4.wxml看哪个页面的</text>-->
+<!--miniprogram/pages/index/index4.wxml-->
+<!--<text>miniprogram/pages/index/index4.wxml</text>-->
+<text>添加toolBar的能力成功了</text>
+<view class="intro">能力</view>
+<view class="intro">index4</view>

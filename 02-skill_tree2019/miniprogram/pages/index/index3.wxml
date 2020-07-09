@@ -1,0 +1,5 @@
+<!--pages/index/index3.wxml-->
+<!--<text>pages/index/index3.wxml</text>-->
+<text>添加toolBar的职业成功</text>
+<view class="intro">职业</view>
+<view class="intro">index3</view>
