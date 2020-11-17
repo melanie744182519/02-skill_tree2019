@@ -2,4 +2,4 @@
 <!--<text>miniprogram/pages/index/index2.wxml</text>-->
 <text>添加toolBar的专业成功</text>
 <view class="intro">专业</view>
-<view class="intro">index2</view>
+<view class="intro">学科专业</view>

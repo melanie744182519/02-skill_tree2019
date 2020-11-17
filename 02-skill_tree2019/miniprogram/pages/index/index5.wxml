@@ -1,0 +1,5 @@
+<!--miniprogram/pages/index/index5.wxml-->
+<!--text>miniprogram/pages/index/index5.wxml</text!-->
+<text>添加toolBar的知识成功了</text>
+<view class="intro">知识</view>
+<view class="intro">index5</view>

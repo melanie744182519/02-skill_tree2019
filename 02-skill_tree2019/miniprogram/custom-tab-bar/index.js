@@ -40,6 +40,13 @@ Component({
       text: "能力"
 
     
+    },{
+      pagePath: "/pages/index/index5",
+      iconPath: "/images/icon_API.png",
+      selectedIconPath: "/images/icon_API_HL.png",
+      text: "知识"
+
+    
     }
   ]
     
